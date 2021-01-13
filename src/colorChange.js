@@ -12,7 +12,6 @@ export default function colorChange(){
         let loaded = 0;
 
         setTimeout(() => {
-            const svgDiv = document.getElementById("loadingSvg");
             const width = svg.getAttribute("width");
             const height = svg.getAttribute("height");
 
