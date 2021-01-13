@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(29, 26, 59);
+}
+
+h1{
+    color: white;
+}
+
+#loadingSvg{
+    margin-top: 10rem;
+    display: flex;
+    justify-content: center;
+    transition: all .5s ease;
+}
+
+svg{
+    transition: all .5s ease-in;  
+}
